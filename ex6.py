@@ -1,0 +1,6 @@
+print(x)
+print(y)
+print(f"I said: {x}")
+print(f"I also said: '{y}'")
+print(joke_evaluation.format(hilarious))
+print(w + e)
